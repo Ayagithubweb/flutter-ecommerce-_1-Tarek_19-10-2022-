@@ -10,6 +10,8 @@
 
 <ol>
 <li> <b> Add readme + Add git + Add gitHub</b>
-<li> <b> Create Flutter App </b>
+<li> <b> Create Flutter App (flutter create ecommerce_2023) </b>
+<li> <b> Add firebase to App (flutterfire configure) </b>
+
 
 </ol>
