@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "767681858314",
+    "project_id": "ecommerce-flutter-tarak",
+    "storage_bucket": "ecommerce-flutter-tarak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767681858314:android:669509380d7ac38fda88f3",
+        "android_client_info": {
+          "package_name": "com.example.ecomerce_tarek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767681858314-1b8jbo4fpuq68ibu1rde7vapqm9qpo5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfZjXcGFlrJsQ2Li30o9dgpywczJ3mDvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767681858314-1b8jbo4fpuq68ibu1rde7vapqm9qpo5f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "767681858314-7i6pgl06dor6l4nklhpe76mes5l5iqht.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecomerceTarek"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767681858314:android:9ef43404f51e42b9da88f3",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767681858314-1b8jbo4fpuq68ibu1rde7vapqm9qpo5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfZjXcGFlrJsQ2Li30o9dgpywczJ3mDvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767681858314-1b8jbo4fpuq68ibu1rde7vapqm9qpo5f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "767681858314-7i6pgl06dor6l4nklhpe76mes5l5iqht.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecomerceTarek"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767681858314:android:8af70da225d529cbda88f3",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767681858314-1b8jbo4fpuq68ibu1rde7vapqm9qpo5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfZjXcGFlrJsQ2Li30o9dgpywczJ3mDvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767681858314-1b8jbo4fpuq68ibu1rde7vapqm9qpo5f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "767681858314-7i6pgl06dor6l4nklhpe76mes5l5iqht.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecomerceTarek"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
