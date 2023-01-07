@@ -15,9 +15,6 @@
 <li> <b> Add branch auth (login + register) </b>
 <li> <b> Add a Architecture-MVC + Add packages </b>
 <li> <b> Add a routes + init firebase + some pages </b>
-
-
-
 <li> <b> Design Ui of (login + register) </b>
 
 
