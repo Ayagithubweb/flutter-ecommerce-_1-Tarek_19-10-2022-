@@ -16,7 +16,8 @@
 <li> <b> Add a Architecture-MVC + Add packages </b>
 <li> <b> Add a routes + init firebase + some pages </b>
 <li> <b> Design Ui of (login + register) </b>
-
+<li> <b> logic of (login + register) </b> 
+problem from core_web ....
 
 
 

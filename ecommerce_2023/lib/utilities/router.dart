@@ -6,7 +6,7 @@ import 'package:flutter/cupertino.dart';
 Route<dynamic> onGenerateRoute(RouteSettings settings){
 switch (settings.name) {
   case AppRoutes.authPageRoute:
-      return CupertinoPageRoute(builder: (_) => const AuthPage(), settings: settings);
+      return CupertinoPageRoute(builder: (_) =>  AuthPage(), settings: settings);
       default:
       return CupertinoPageRoute(
         builder: (_) => const LandingPage(),

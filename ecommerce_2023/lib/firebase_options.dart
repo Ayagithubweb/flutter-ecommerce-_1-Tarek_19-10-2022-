@@ -4,6 +4,8 @@ import 'package:flutter/foundation.dart'
     show defaultTargetPlatform, kIsWeb, TargetPlatform;
 // ignore: depend_on_referenced_packages
 import 'package:firebase_core/firebase_core.dart';
+// import 'package:firebase_core_web/firebase_core_web.dart';
+
 
 /// Default [FirebaseOptions] for use with your Firebase apps.
 ///
