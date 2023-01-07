@@ -12,6 +12,14 @@
 <li> <b> Add readme + Add git + Add gitHub</b>
 <li> <b> Create Flutter App (flutter create ecommerce_2023) </b>
 <li> <b> Add firebase to App (flutterfire configure) </b>
+<li> <b> Add branch auth (login + register) </b>
+<li> <b> Add a Architecture-MVC + Add packages </b>
+
+
+
+<li> <b> Design Ui of (login + register) </b>
+
+
 
 
 </ol>
