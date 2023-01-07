@@ -14,6 +14,7 @@
 <li> <b> Add firebase to App (flutterfire configure) </b>
 <li> <b> Add branch auth (login + register) </b>
 <li> <b> Add a Architecture-MVC + Add packages </b>
+<li> <b> Add a routes + init firebase + some pages </b>
 
 
 
